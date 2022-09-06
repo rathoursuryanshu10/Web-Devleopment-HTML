@@ -1,0 +1,57 @@
+
+
+<html>
+    <head>
+        <title>Normal Pages using list tags </title>
+        <link href="../android logo without bg.png " rel="icon" />
+        <style>
+            ul
+            {
+                type:bullet;
+ }
+            body
+            {
+                font - size:25px;
+ }
+        </style>
+    </head>
+    <body>
+	<h1>Use of list tag</h1>
+        <ul>
+            <li>Web Designing Tools
+                <ul>
+                    <li>HTML
+                        <ul>
+                            <li>HTML 4</li>
+                            <li>HTML 5</li>
+                        </ul>
+                    </li>
+                    <li>CSS
+                        <UL type="square">
+                            <li>CSS 1.0 IN 17 Decmber 1996 By Haken </li>
+                            <li>CSS 2.0 IN May 1998 </li>
+                            <li>CSS 2.1 IN 7 June 2011 </li>
+                            <li>CSS 3.0 in June 2012 </li>
+
+                        </UL>
+                    </li>
+                    <li>JAVASCRIPT</li>
+                    <li>Responsive in 19 June 2012</li>
+                </ul>
+
+            </li>
+            <li>Web Development Tools
+                <ul>
+                    <li type="circle" >PHP </li>
+                    <li>.NET
+                        <UL>
+                            <li>C#</li>
+                            <li>VB.NET</li>
+                            <li>ASP.NET</li>
+                        </UL>
+                    </li>
+                    <li>JSP</li>
+                </ul>
+            </li>
+    </body>
+</html>
